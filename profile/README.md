@@ -12,8 +12,8 @@ Read more about [our vision](https://finalspark.com/our-vision-headline-about-th
 
 ## Connect with us
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://finalspark.com/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logoColor=white)](https://finalspark.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/finalspark)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/finalsparkai)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/finalsparkai)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/edPetHUYtx)
-[![Team](https://img.shields.io/badge/Team-FF6F61?style=for-the-badge&logo=teams&logoColor=white)](https://finalspark.com/team/)
+[![Team](https://img.shields.io/badge/Team-FF6F61?style=for-the-badge&logo=people&logoColor=white)](https://finalspark.com/team/)
