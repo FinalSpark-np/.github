@@ -10,14 +10,6 @@ Partner universities and research institutions using the NeuroPlatform are welco
 
 We encourage collaboration and sharing of knowledge to accelerate the development of this technology.
 
-## Connect with us
-
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logoColor=white)](https://finalspark.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/finalspark)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/finalsparkai)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/edPetHUYtx)
-[![Team](https://img.shields.io/badge/Team-FF6F61?style=for-the-badge&logo=people&logoColor=white)](https://finalspark.com/team/)
-
 ---
 
 The human brain is a powerhouse, boasting 86 billion neurons and using only 20 watts of power for efficient computing. Replicating this kind of efficiency with silicon would require a whopping 10 megawatts of power, according to Stanford University's Kwabena Boahen.
@@ -27,3 +19,11 @@ The human brain is a powerhouse, boasting 86 billion neurons and using only 20 w
 The possibilities are very exciting.
 
 Read more about [our vision](https://finalspark.com/our-vision-headline-about-the-beautiful-new-technology-4/).
+
+## Connect with us
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logoColor=white)](https://finalspark.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/finalspark)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/finalsparkai)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/edPetHUYtx)
+[![Team](https://img.shields.io/badge/Team-FF6F61?style=for-the-badge&logo=people&logoColor=white)](https://finalspark.com/team/)
