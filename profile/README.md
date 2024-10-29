@@ -2,7 +2,7 @@
 
 ![FinalSpark Logo 2219px](https://github.com/user-attachments/assets/704eb32c-1746-4a73-9b68-b163729fd8b5)
 
-## FinalSpark NeuroPlatform
+## The FinalSpark Neuroplatform
 
 This collection of repositories is meant to host all the open-source code related to our **NeuroPlatform** (NP).
 
