@@ -1,5 +1,7 @@
 # Welcome to the next generation of computing
 
+> **Documentation:** The latest documentation is available on request. The older documentation is outdated and is kept to give an idea of the API used to access neurons.
+
 ![FinalSpark Logo 2219px](https://github.com/user-attachments/assets/704eb32c-1746-4a73-9b68-b163729fd8b5)
 
 ## The FinalSpark Neuroplatform
